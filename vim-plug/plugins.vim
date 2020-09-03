@@ -117,6 +117,10 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     " TODO add this back in change from C-n
     " Plug 'mg979/vim-visual-multi', {'branch': 'master'}
     Plug 'moll/vim-bbye'
+
+    " My
+    Plug 'neoclide/jsonc.vim'
+
     " Plugin Graveyard
 
     " jsx syntax support
