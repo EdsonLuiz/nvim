@@ -24,6 +24,7 @@
   "list.selectedSignText": " ",
 
   // autoformat
+  "prettier.eslintIntegration": true,
   "coc.preferences.formatOnSaveFiletypes": [
     "css",
     "markdown",
