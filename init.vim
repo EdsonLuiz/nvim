@@ -21,7 +21,7 @@ else
 
   " Themes
   source $HOME/.config/nvim/themes/syntax.vim
-  source $HOME/.config/nvim/themes/onedark.vim
+  source $HOME/.config/nvim/themes/codedark.vim
   source $HOME/.config/nvim/themes/airline.vim
   " source $HOME/.config/nvim/themes/material.vim
 

@@ -48,6 +48,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'alvan/vim-closetag'
     " Themes
     Plug 'christianchiarulli/onedark.vim'
+    Plug 'tomasiser/vim-code-dark'
     Plug 'kaicataldo/material.vim', { 'branch': 'main' }
     " Intellisense
     Plug 'neoclide/coc.nvim', {'branch': 'release'}
