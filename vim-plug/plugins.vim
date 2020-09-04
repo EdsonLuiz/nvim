@@ -50,6 +50,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'christianchiarulli/onedark.vim'
     Plug 'tomasiser/vim-code-dark'
     Plug 'kaicataldo/material.vim', { 'branch': 'main' }
+    Plug 'arcticicestudio/nord-vim'
     " Intellisense
     Plug 'neoclide/coc.nvim', {'branch': 'release'}
     " Status Line
