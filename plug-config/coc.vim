@@ -24,6 +24,7 @@
     \ 'coc-xml',
     \ 'coc-yank',
     \ 'coc-json',
+    \ 'coc-styled-components',
     \ 'coc-marketplace',
     \ ]
     " \ 'coc-tabnine',
