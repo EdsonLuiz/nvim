@@ -126,6 +126,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
 
     " My
     Plug 'neoclide/jsonc.vim'
+    Plug 'dsznajder/vscode-es7-javascript-react-snippets', { 'do': 'yarn install --frozen-lockfile && yarn compile' }
 
     " Plugin Graveyard
     " Plug 'yuezk/vim-js'
